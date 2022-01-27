@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fodiana
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning how to code and create a functional site web using as much language as I move forward in my learning.
-- 💞️ I’m looking to collaborate on anything and every subject that will help me learn better and become a qualified web master
+- 🌱 I’m currently learning how to code and create a functional site web using as much language as I advance in my learning.
+- 💞️ I’m looking forward to collaborating on anything and every subject that will help me learn better and become a qualified web master.
 - 📫 How to reach me ? Send me a mail please at fodion5@yahoo.com
 
 <!---
